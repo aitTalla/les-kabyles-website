@@ -1,6 +1,6 @@
 # Site Web les Kabyle
 
-Bienvenue sur se petit projet ! Ce site a été créé pour représenter et promouvoir la culture kabyle, ses traditions, son histoir, sa langue et son patrimoine.
+Bienvenue sur ce petit project ! Ce site a été créé pour représenter et promouvoir la culture kabyle, ses traditions, son histoire, sa langue et son patrimoine.
 ![image](cap.png)
 ## Table des matières
 
